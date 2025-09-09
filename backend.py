@@ -1,6 +1,7 @@
 import heapq
 import copy
 
+# NUEVA VERSION
 class PuzzleSolver:
     def __init__(self, goal_state=None):
         self.goal_state = goal_state if goal_state else [[1,2,3],[4,5,6],[7,8,0]]

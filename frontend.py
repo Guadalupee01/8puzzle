@@ -2,6 +2,8 @@ import pygame
 import sys
 from backend import PuzzleSolver
 
+#NUEVA VERSION
+
 class PuzzleUI:
     def __init__(self):
         pygame.init()
