@@ -1,0 +1,191 @@
+id,remitente,asunto,contenido,enlaces,adjuntos,label
+1,prof.juarez@tecnm.mx,Clase de IA – enlace a Teams,"Buenas tardes, comparto el enlace para la clase de hoy a las 18:00.",https://teams.microsoft.com/l/meetup-join/abc123,,ham
+2,notificaciones@banco-seguro.com,Alerta de inicio de sesión,"Detectamos un inicio de sesión desde un nuevo dispositivo. Si fuiste tú, ignora este mensaje.",https://banco-seguro.com/seguridad,,ham
+3,soporte@empresa.com,Factura electrónica de septiembre,Adjuntamos su factura correspondiente al mes de septiembre.,,factura_sep2025.pdf,ham
+4,biblioteca@universidad.mx,Recordatorio de préstamo de libros,"Estimado estudiante, recuerda devolver los libros antes del viernes.",https://biblioteca.universidad.mx/prestamos,,ham
+5,noreply@compras.mx,Confirmación de pedido #58421,Tu compra fue procesada con éxito. Llegará entre el 2 y 4 de octubre.,https://compras.mx/orden/58421,,ham
+6,rrhh@empresa.com,Entrevista programada,"Hola, confirmamos tu entrevista para el miércoles a las 10:00 am.",,instrucciones.pdf,ham
+7,avisos@gob.mx,Cita confirmada – Pasaporte,Tu cita para trámite de pasaporte ha sido confirmada.,https://www.gob.mx/pasaporte/citas,,ham
+8,investigacion@tecnm.mx,Convocatoria Innovatec 2025,Se abre la convocatoria para proyectos de innovación tecnológica.,https://convocatorias.tecnm.mx/innovatec,,ham
+9,no-reply@github.com,Nuevo inicio de sesión en tu cuenta,Se detectó un inicio de sesión desde Windows. Revisa tu configuración si no fuiste tú.,https://github.com/settings/security,,ham
+10,soporte@unam.mx,Acceso a WiFi universitario,Tu acceso a la red WiFi ha sido renovado por un año.,https://wifi.unam.mx/renovacion,,ham
+11,desconocido@promo-cash.win,¡Has ganado un premio MILLONARIO!,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://promo-cash.win/recoge,,spam
+12,soporte@@banco.com,Verificación urgente de su cuenta,Su cuenta será suspendida si no confirma sus datos aquí.,http://soporte-banco.com-verifica.co,,spam
+13,profesor.tecnm.mx,Clase WhatsApp enlace del grupo,ÚNETE YA al grupo oficial en whatsappp para pasar la materia fácil.,http://whatsappp.com/xyz,,spam
+14,noreply@faceb00k.com,Restablece tu contraseña ahora,"Se solicitó un restablecimiento. Si no fuiste tú, entra al siguiente enlace.",http://faceb00k.com-reset.secure-login.cn,,spam
+15,ganapremios@cupones-gratis.cc,Tarjeta de regalo GRATIS $1000,Solo hoy! Regístrate y gana 1000$ en cupones.,http://cupones-gratis.cc/win,,spam
+16,seguridad@banco-seguro.com.mx,Alerta: actividad inusual,Su cuenta presenta movimientos sospechosos. Descargue la app adjunta y verifique.,,verificador_seguridad.exe,spam
+17,ventas@empresa,Oferta exclusiva 100% GRATIS,Compra uno y llévate otro GRATIS!!! CLICK AQUÍ,http://malwareshare.cn/offer,,spam
+18,info@tecnm..mx,Actualización de credenciales,Para mantener el acceso es OBLIGATORIO actualizar tu contraseña en el link.,http://tecnm.mx.validar-credenciales.ru,,spam
+19,soporte@banco-seguro.co,Tu cuenta será cerrada,Último aviso: entra a este link y paga una comisión para evitar el cierre.,http://banco-seguro.co.pago-seguro.ru,,spam
+20,promos@tienda-oficial.mx,Descuentos de locura!!!,Hasta 90% de descuento en TODO. Visita ahora nuestra web.,http://tienda-oficial.mx.descuentos.win,,spam
+21,ayuda@startup.io,Invitación a colaborar,"Hola, vimos tu proyecto y queremos charlar. Sitio oficial abajo.",https://startup.io; http://promo-cash.win/bono,,spam
+22,desconocido@tecnm.mx,Recordatorio: entrega del proyecto,"Hola, soy asistente académico nuevo. Aquí el enlace a Teams.",https://teams.microsoft.com/l/meetup-join/def456,,ham
+23,soporte@softsegura.com,Actualiza tu antivirus GRATIS,Puedes descargar la actualización desde nuestro sitio oficial o desde un mirror alterno.,https://softsegura.com/update; http://malicioso.ru/build,,spam
+24,coordinacion@facultad.universidad.mx,Cambio de aula mañana,Se cambia el salón a B-204 por mantenimiento.,,,ham
+25,secretaria@tecnm.mx,Clase WhatsApp: enlace del grupo oficial,Se comparte enlace del grupo OFICIAL de la materia. Cualquier duda responda este correo.,https://chat.whatsapp.com/XXXXX,,ham
+26,noreply@banco-seguro.com,Verifica tus datos fiscales,"Para evitar el bloqueo, sube tus documentos en el portal seguro.",https://banco-seguro.com/validacion,,ham
+27,no-reply@university.edu,Tu cuenta fue desactivada,"Para reactivar tu cuenta, visita el portal. (Mensaje sospechoso por correo genérico)",http://university.edu.reactive-now.cn,,spam
+28,practicas@empresa.com,Oferta de prácticas profesionales,Nos interesa tu perfil. Revisa los requisitos en el enlace.,https://empresa.com/practicas,,ham
+29,ayuda@banco-seguro.com,Reembolso disponible,Tienes un reembolso disponible. Consulta el detalle en el portal oficial.,https://banco-seguro.com/reembolsos,,ham
+30,info@compras-oficial.com,Recibe tu paquete hoy,"Para recibir tu paquete hoy, paga 20 MXN de servicio premium.",http://compras-oficial.com.entrega-rapida.ru,,spam
+1093,lottery@ofertas-rapidas.xyz,URGE: Verifica tu cuenta para evitar suspensión,Pague su factura atrasada para evitar recargos.,http://sorteo-gratis.site/registro,comprobante.rar,spam
+1007,it.helpdesk@unam.mx,Resultados de examen parcial,Tu acceso a la red WiFi ha sido renovado por un año.,https://calendar.google.com/event?eid=123,,ham
+1150,promo@sorteo-gratis.site,Oferta exclusiva: iPhone por $1 solo hoy,"Crédito aprobado sin requisitos, solo hoy.",http://sorteo-gratis.site/registro,,spam
+1057,contabilidad@instituto.edu,Confirmación de inscripción,Consulta tus calificaciones en el sistema académico.,https://docs.google.com/document/d/abc123/edit,orden_dia.docx,ham
+1112,desconocido@sorteo-gratis.site,Factura vencida – pague ahora,"Su paquete está detenido, verifique los datos de envío.",http://bit.ly/verify-345,oferta.pdf,spam
+1131,credito@regalo365.cc,Recibe un crédito SIN revisar buró,"Quedan pocas unidades, aprovecha ya mismo.",http://promo-cash.win/recoge,comprobante.rar,spam
+1054,biblioteca@miempresa.mx,Confirmación de inscripción,La clase de mañana será en el aula 204.,https://teams.microsoft.com/l/meetup-join/abc123,informe.pdf,ham
+1127,promo@loteria-premios.top,Deposita y DUPLICA tu dinero en 24h,"Tu regalo te espera, confirma tu dirección.",http://ofertas-rapidas.xyz/deal,comprobante.rar,spam
+1077,rh@colegio.mx,Cambio de aula para mañana,La clase de mañana será en el aula 204.,https://aulavirtual.universidad.edu.mx/curso,calificaciones.xlsx,ham
+1025,biblioteca@empresa.com,Resultados de examen parcial,"Buenas tardes, comparto el enlace para la clase de hoy a las 18:00.",,calificaciones.xlsx,ham
+1028,biblioteca@tecnm.mx,Horario de junta semanal,Adjunto el orden del día para la reunión de mañana.,https://docs.google.com/document/d/abc123/edit,temario.pdf,ham
+1044,admin@unam.mx,Confirmación de inscripción,"Por seguridad, actualiza tu contraseña en el portal interno.",https://aulavirtual.universidad.edu.mx/curso,calificaciones.xlsx,ham
+1032,coordinacion@unam.mx,Resultados de examen parcial,Se adjunta la factura correspondiente a este mes.,https://intranet.empresa.com/login,,ham
+1145,credito@regalo365.cc,URGE: Verifica tu cuenta para evitar suspensión,"No requiere experiencia, cupos limitados.",http://promo-cash.win/recoge,oferta.pdf,spam
+1128,ganador@ofertas-rapidas.xyz,¡Has ganado un premio MILLONARIO!,Acceso inmediato a ganancias automáticas.,http://bonus-premio.ru/claim,comprobante.rar,spam
+1138,noreply@cryptofast.biz,Acceso VIP a ganancias diarias,Haz clic en el enlace y evita la suspensión de tu cuenta.,http://bonus-premio.ru/claim,,spam
+1078,maria@unam.mx,Confirmación de inscripción,Se adjunta la factura correspondiente a este mes.,https://calendar.google.com/event?eid=123,,ham
+1006,juan@tecnm.mx,Recordatorio de entrega de proyecto,La clase de mañana será en el aula 204.,https://aulavirtual.universidad.edu.mx/curso,,ham
+1140,ganador@cryptofast.biz,Última oportunidad: regalo asegurado,"Su paquete está detenido, verifique los datos de envío.",http://bit.ly/verify-345,,spam
+1053,prof.juarez@instituto.edu,Envío de factura del mes,Recuerda que la fecha límite de entrega es el viernes.,https://aulavirtual.universidad.edu.mx/curso,factura.pdf,ham
+1155,reclamo@loteria-premios.top,Oferta exclusiva: iPhone por $1 solo hoy,"Tu regalo te espera, confirma tu dirección.",http://inversion-milagro.co/alta,,spam
+1013,admin@miempresa.mx,Confirmación de inscripción,Consulta tus calificaciones en el sistema académico.,https://intranet.empresa.com/login,informe.pdf,ham
+1020,admin@tecnm.mx,Invitación a seminario de investigación,La clase de mañana será en el aula 204.,https://docs.google.com/document/d/abc123/edit,temario.pdf,ham
+1051,it.helpdesk@gob.mx,Recordatorio de entrega de proyecto,Tu acceso a la red WiFi ha sido renovado por un año.,https://teams.microsoft.com/l/meetup-join/abc123,calificaciones.xlsx,ham
+1126,lottery@ofertas-rapidas.xyz,Deposita y DUPLICA tu dinero en 24h,"Su paquete está detenido, verifique los datos de envío.",http://cryptofast.biz/login,,spam
+1047,soporte@empresa.com,Resultados de examen parcial,Tu acceso a la red WiFi ha sido renovado por un año.,https://drive.google.com/file/d/abc123/view,,ham
+1066,admin@tecnm.mx,Clase de IA – enlace a Teams,"Por seguridad, actualiza tu contraseña en el portal interno.",https://intranet.empresa.com/login,factura.pdf,ham
+1002,prof.juarez@unam.mx,Envío de factura del mes,Se adjunta la factura correspondiente a este mes.,https://teams.microsoft.com/l/meetup-join/abc123,temario.pdf,ham
+1046,juan@unam.mx,Clase de IA – enlace a Teams,"Buenas tardes, comparto el enlace para la clase de hoy a las 18:00.",https://docs.google.com/document/d/abc123/edit,temario.pdf,ham
+1149,promo@regalo365.cc,Confirma tu paquete pendiente,"Crédito aprobado sin requisitos, solo hoy.",http://sorteo-gratis.site/registro,comprobante.rar,spam
+1100,promo@promo-cash.win,Factura vencida – pague ahora,"Quedan pocas unidades, aprovecha ya mismo.",http://inversion-milagro.co/alta,factura.zip,spam
+1091,ganador@bonus-premio.ru,Deposita y DUPLICA tu dinero en 24h,"Tu regalo te espera, confirma tu dirección.",http://loteria-premios.top/gana,comprobante.rar,spam
+1035,contabilidad@miempresa.mx,Resultados de examen parcial,Adjunto el orden del día para la reunión de mañana.,https://docs.google.com/document/d/abc123/edit,factura.pdf,ham
+1143,ganador@ofertas-rapidas.xyz,Trabajo desde casa y gana $5000/semana,"No requiere experiencia, cupos limitados.",http://cryptofast.biz/login,oferta.pdf,spam
+1121,credito@regalo365.cc,Confirma tu paquete pendiente,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://bit.ly/verify-345,comprobante.rar,spam
+1081,promo@sorteo-gratis.site,Deposita y DUPLICA tu dinero en 24h,"Tu regalo te espera, confirma tu dirección.",http://ofertas-rapidas.xyz/deal,factura.zip,spam
+1107,oportunidad@ofertas-rapidas.xyz,Trabajo desde casa y gana $5000/semana,Haz clic en el enlace y evita la suspensión de tu cuenta.,http://bonus-premio.ru/claim,comprobante.rar,spam
+1073,soporte@colegio.mx,Resultados de examen parcial,Consulta tus calificaciones en el sistema académico.,https://intranet.empresa.com/login,orden_dia.docx,ham
+1014,soporte@instituto.edu,Envío de factura del mes,"Buenas tardes, comparto el enlace para la clase de hoy a las 18:00.",,calificaciones.xlsx,ham
+1086,desconocido@regalo365.cc,Acceso VIP a ganancias diarias,Multiplica tu inversión de forma garantizada.,http://bit.ly/verify-345,oferta.pdf,spam
+1154,oportunidad@sorteo-gratis.site,Confirma tu paquete pendiente,"Su paquete está detenido, verifique los datos de envío.",http://promo-cash.win/recoge,factura.zip,spam
+1031,prof.juarez@miempresa.mx,Envío de factura del mes,Se adjunta la factura correspondiente a este mes.,https://wifi.unam.mx/renovacion,orden_dia.docx,ham
+1071,coordinacion@tecnm.mx,Invitación a seminario de investigación,Recuerda que la fecha límite de entrega es el viernes.,,calificaciones.xlsx,ham
+1045,rh@miempresa.mx,Envío de factura del mes,Tu inscripción ha sido confirmada exitosamente.,https://intranet.empresa.com/login,,ham
+1024,biblioteca@gob.mx,Cambio de aula para mañana,Se adjunta la factura correspondiente a este mes.,https://drive.google.com/file/d/abc123/view,orden_dia.docx,ham
+1039,contabilidad@tecnm.mx,Envío de factura del mes,Se adjunta la factura correspondiente a este mes.,https://docs.google.com/document/d/abc123/edit,factura.pdf,ham
+1147,ganador@promo-cash.win,Trabajo desde casa y gana $5000/semana,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://bonus-premio.ru/claim,oferta.pdf,spam
+1115,bitcoin@loteria-premios.top,Deposita y DUPLICA tu dinero en 24h,Haz clic en el enlace y evita la suspensión de tu cuenta.,http://cryptofast.biz/login,oferta.pdf,spam
+1134,promo@cryptofast.biz,Acceso VIP a ganancias diarias,Pague su factura atrasada para evitar recargos.,,premio.doc,spam
+1142,noreply@cryptofast.biz,Última oportunidad: regalo asegurado,"Quedan pocas unidades, aprovecha ya mismo.",http://bit.ly/verify-345,,spam
+1135,reclamo@cryptofast.biz,Factura vencida – pague ahora,"Su paquete está detenido, verifique los datos de envío.",http://inversion-milagro.co/alta,comprobante.rar,spam
+1089,credito@ofertas-rapidas.xyz,Confirma tu paquete pendiente,"Tu regalo te espera, confirma tu dirección.",http://ofertas-rapidas.xyz/deal,,spam
+1074,prof.juarez@colegio.mx,Recordatorio de entrega de proyecto,La clase de mañana será en el aula 204.,,informe.pdf,ham
+1026,prof.juarez@unam.mx,Recordatorio de entrega de proyecto,Tu inscripción ha sido confirmada exitosamente.,https://intranet.empresa.com/login,,ham
+1119,reclamo@loteria-premios.top,¡Has ganado un premio MILLONARIO!,Acceso inmediato a ganancias automáticas.,http://ofertas-rapidas.xyz/deal,,spam
+1015,prof.juarez@gob.mx,Envío de factura del mes,La clase de mañana será en el aula 204.,,factura.pdf,ham
+1097,credito@cryptofast.biz,Deposita y DUPLICA tu dinero en 24h,"Tu regalo te espera, confirma tu dirección.",http://sorteo-gratis.site/registro,oferta.pdf,spam
+1027,coordinacion@universidad.edu.mx,Acceso a WiFi universitario,Tu acceso a la red WiFi ha sido renovado por un año.,https://docs.google.com/document/d/abc123/edit,,ham
+1023,maria@unam.mx,Resultados de examen parcial,Adjunto el orden del día para la reunión de mañana.,https://wifi.unam.mx/renovacion,,ham
+1022,prof.juarez@instituto.edu,Confirmación de inscripción,Estás invitado al seminario de investigación este jueves.,https://drive.google.com/file/d/abc123/view,calificaciones.xlsx,ham
+1133,noreply@promo-cash.win,Oferta exclusiva: iPhone por $1 solo hoy,"No requiere experiencia, cupos limitados.",http://cryptofast.biz/login,,spam
+1065,juan@empresa.com,Invitación a seminario de investigación,Se adjunta la factura correspondiente a este mes.,https://aulavirtual.universidad.edu.mx/curso,factura.pdf,ham
+1146,oportunidad@sorteo-gratis.site,Última oportunidad: regalo asegurado,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://bit.ly/verify-345,factura.zip,spam
+1041,it.helpdesk@tecnm.mx,Resultados de examen parcial,Tu acceso a la red WiFi ha sido renovado por un año.,https://teams.microsoft.com/l/meetup-join/abc123,informe.pdf,ham
+1136,ganador@inversion-milagro.co,Trabajo desde casa y gana $5000/semana,"No requiere experiencia, cupos limitados.",http://promo-cash.win/recoge,premio.doc,spam
+1003,biblioteca@universidad.edu.mx,Invitación a seminario de investigación,Se adjunta la factura correspondiente a este mes.,https://docs.google.com/document/d/abc123/edit,temario.pdf,ham
+1139,credito@inversion-milagro.co,Trabajo desde casa y gana $5000/semana,"Su paquete está detenido, verifique los datos de envío.",http://cryptofast.biz/login,,spam
+1021,biblioteca@gob.mx,Clase de IA – enlace a Teams,Tu acceso a la red WiFi ha sido renovado por un año.,https://aulavirtual.universidad.edu.mx/curso,,ham
+1102,bitcoin@sorteo-gratis.site,Factura vencida – pague ahora,"Tu regalo te espera, confirma tu dirección.",http://sorteo-gratis.site/registro,comprobante.rar,spam
+1148,ganador@regalo365.cc,Oferta exclusiva: iPhone por $1 solo hoy,"No requiere experiencia, cupos limitados.",http://sorteo-gratis.site/registro,,spam
+1113,credito@sorteo-gratis.site,Oferta exclusiva: iPhone por $1 solo hoy,Pague su factura atrasada para evitar recargos.,http://bonus-premio.ru/claim,,spam
+1055,prof.juarez@gob.mx,Horario de junta semanal,Tu inscripción ha sido confirmada exitosamente.,https://wifi.unam.mx/renovacion,,ham
+1011,rh@instituto.edu,Recordatorio de entrega de proyecto,Recuerda que la fecha límite de entrega es el viernes.,https://intranet.empresa.com/login,informe.pdf,ham
+1029,maria@empresa.com,Resultados de examen parcial,La clase de mañana será en el aula 204.,https://calendar.google.com/event?eid=123,factura.pdf,ham
+1036,admin@miempresa.mx,Envío de factura del mes,Tu acceso a la red WiFi ha sido renovado por un año.,https://wifi.unam.mx/renovacion,informe.pdf,ham
+1030,maria@universidad.edu.mx,Invitación a seminario de investigación,Recuerda que la fecha límite de entrega es el viernes.,https://docs.google.com/document/d/abc123/edit,temario.pdf,ham
+1008,coordinacion@gob.mx,Recordatorio de entrega de proyecto,La clase de mañana será en el aula 204.,https://intranet.empresa.com/login,informe.pdf,ham
+1108,oportunidad@bonus-premio.ru,¡Has ganado un premio MILLONARIO!,"Tu regalo te espera, confirma tu dirección.",,,spam
+1069,juan@gob.mx,Resultados de examen parcial,Estás invitado al seminario de investigación este jueves.,,,ham
+1157,ganador@ofertas-rapidas.xyz,Acceso VIP a ganancias diarias,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://regalo365.cc/activar,oferta.pdf,spam
+1080,noreply@regalo365.cc,URGE: Verifica tu cuenta para evitar suspensión,"Tu regalo te espera, confirma tu dirección.",http://regalo365.cc/activar,,spam
+1122,facturacion@cryptofast.biz,Deposita y DUPLICA tu dinero en 24h,"Tu regalo te espera, confirma tu dirección.",,comprobante.rar,spam
+1118,ganador@sorteo-gratis.site,Recibe un crédito SIN revisar buró,"Tu regalo te espera, confirma tu dirección.",,,spam
+1144,credito@bonus-premio.ru,Última oportunidad: regalo asegurado,Pague su factura atrasada para evitar recargos.,http://cryptofast.biz/login,premio.doc,spam
+1104,promo@cryptofast.biz,¡Has ganado un premio MILLONARIO!,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://ofertas-rapidas.xyz/deal,factura.zip,spam
+1010,prof.juarez@universidad.edu.mx,Invitación a seminario de investigación,Tu inscripción ha sido confirmada exitosamente.,https://docs.google.com/document/d/abc123/edit,informe.pdf,ham
+1094,facturacion@regalo365.cc,¡Has ganado un premio MILLONARIO!,Multiplica tu inversión de forma garantizada.,http://sorteo-gratis.site/registro,oferta.pdf,spam
+1050,juan@universidad.edu.mx,Envío de factura del mes,Tu inscripción ha sido confirmada exitosamente.,https://calendar.google.com/event?eid=123,factura.pdf,ham
+1079,it.helpdesk@instituto.edu,Actualización de contraseña corporativa,"Por seguridad, actualiza tu contraseña en el portal interno.",https://intranet.empresa.com/login,temario.pdf,ham
+1043,contabilidad@miempresa.mx,Invitación a seminario de investigación,"Buenas tardes, comparto el enlace para la clase de hoy a las 18:00.",https://drive.google.com/file/d/abc123/view,calificaciones.xlsx,ham
+1033,soporte@tecnm.mx,Envío de factura del mes,Tu acceso a la red WiFi ha sido renovado por un año.,https://teams.microsoft.com/l/meetup-join/abc123,,ham
+1158,lottery@bonus-premio.ru,URGE: Verifica tu cuenta para evitar suspensión,"Su paquete está detenido, verifique los datos de envío.",http://bit.ly/verify-345,,spam
+1009,soporte@tecnm.mx,Envío de factura del mes,Tu inscripción ha sido confirmada exitosamente.,https://wifi.unam.mx/renovacion,,ham
+1110,promo@cryptofast.biz,Última oportunidad: regalo asegurado,"No requiere experiencia, cupos limitados.",http://bit.ly/verify-345,premio.doc,spam
+1111,bitcoin@promo-cash.win,Acceso VIP a ganancias diarias,Pague su factura atrasada para evitar recargos.,http://loteria-premios.top/gana,,spam
+1124,bitcoin@sorteo-gratis.site,Confirma tu paquete pendiente,"Tu regalo te espera, confirma tu dirección.",http://cryptofast.biz/login,comprobante.rar,spam
+1018,juan@colegio.mx,Envío de factura del mes,Adjunto el orden del día para la reunión de mañana.,https://docs.google.com/document/d/abc123/edit,,ham
+1092,noreply@bonus-premio.ru,Oferta exclusiva: iPhone por $1 solo hoy,Multiplica tu inversión de forma garantizada.,http://sorteo-gratis.site/registro,,spam
+1001,biblioteca@tecnm.mx,Acceso a WiFi universitario,La clase de mañana será en el aula 204.,https://calendar.google.com/event?eid=123,,ham
+1058,prof.juarez@unam.mx,Invitación a seminario de investigación,Tu inscripción ha sido confirmada exitosamente.,https://teams.microsoft.com/l/meetup-join/abc123,,ham
+1067,juan@miempresa.mx,Confirmación de inscripción,Se adjunta la factura correspondiente a este mes.,https://intranet.empresa.com/login,,ham
+1117,credito@promo-cash.win,Recibe un crédito SIN revisar buró,"Quedan pocas unidades, aprovecha ya mismo.",http://inversion-milagro.co/alta,factura.zip,spam
+1056,maria@empresa.com,Confirmación de inscripción,La clase de mañana será en el aula 204.,https://intranet.empresa.com/login,informe.pdf,ham
+1012,prof.juarez@gob.mx,Cambio de aula para mañana,Adjunto el orden del día para la reunión de mañana.,https://intranet.empresa.com/login,factura.pdf,ham
+1042,prof.juarez@unam.mx,Envío de factura del mes,Adjunto el orden del día para la reunión de mañana.,https://calendar.google.com/event?eid=123,calificaciones.xlsx,ham
+1075,maria@tecnm.mx,Resultados de examen parcial,Tu inscripción ha sido confirmada exitosamente.,https://calendar.google.com/event?eid=123,orden_dia.docx,ham
+1064,contabilidad@empresa.com,Horario de junta semanal,Adjunto el orden del día para la reunión de mañana.,https://calendar.google.com/event?eid=123,,ham
+1016,admin@miempresa.mx,Actualización de contraseña corporativa,Adjunto el orden del día para la reunión de mañana.,https://aulavirtual.universidad.edu.mx/curso,factura.pdf,ham
+1004,soporte@gob.mx,Horario de junta semanal,Estás invitado al seminario de investigación este jueves.,,orden_dia.docx,ham
+1063,contabilidad@universidad.edu.mx,Acceso a WiFi universitario,Recuerda que la fecha límite de entrega es el viernes.,https://calendar.google.com/event?eid=123,temario.pdf,ham
+1019,prof.juarez@unam.mx,Horario de junta semanal,Adjunto el orden del día para la reunión de mañana.,https://calendar.google.com/event?eid=123,temario.pdf,ham
+1083,credito@bonus-premio.ru,Factura vencida – pague ahora,"No requiere experiencia, cupos limitados.",http://ofertas-rapidas.xyz/deal,,spam
+1105,oportunidad@promo-cash.win,Oferta exclusiva: iPhone por $1 solo hoy,Multiplica tu inversión de forma garantizada.,http://bonus-premio.ru/claim,oferta.pdf,spam
+1101,ganador@promo-cash.win,Factura vencida – pague ahora,"Crédito aprobado sin requisitos, solo hoy.",http://ofertas-rapidas.xyz/deal,oferta.pdf,spam
+1084,credito@inversion-milagro.co,Factura vencida – pague ahora,Multiplica tu inversión de forma garantizada.,http://bonus-premio.ru/claim,,spam
+1049,coordinacion@unam.mx,Acceso a WiFi universitario,Estás invitado al seminario de investigación este jueves.,,orden_dia.docx,ham
+1151,ganador@regalo365.cc,Factura vencida – pague ahora,Acceso inmediato a ganancias automáticas.,http://promo-cash.win/recoge,oferta.pdf,spam
+1103,credito@bonus-premio.ru,¡Has ganado un premio MILLONARIO!,Acceso inmediato a ganancias automáticas.,http://promo-cash.win/recoge,comprobante.rar,spam
+1132,promo@regalo365.cc,URGE: Verifica tu cuenta para evitar suspensión,Pague su factura atrasada para evitar recargos.,http://inversion-milagro.co/alta,,spam
+1090,reclamo@loteria-premios.top,Confirma tu paquete pendiente,Multiplica tu inversión de forma garantizada.,http://cryptofast.biz/login,oferta.pdf,spam
+1060,biblioteca@colegio.mx,Clase de IA – enlace a Teams,Tu acceso a la red WiFi ha sido renovado por un año.,https://wifi.unam.mx/renovacion,informe.pdf,ham
+1095,oportunidad@promo-cash.win,Factura vencida – pague ahora,"Su paquete está detenido, verifique los datos de envío.",http://promo-cash.win/recoge,comprobante.rar,spam
+1040,rh@colegio.mx,Confirmación de inscripción,"Por seguridad, actualiza tu contraseña en el portal interno.",https://intranet.empresa.com/login,,ham
+1005,contabilidad@empresa.com,Recordatorio de entrega de proyecto,Tu acceso a la red WiFi ha sido renovado por un año.,https://wifi.unam.mx/renovacion,calificaciones.xlsx,ham
+1052,prof.juarez@tecnm.mx,Resultados de examen parcial,Se adjunta la factura correspondiente a este mes.,https://aulavirtual.universidad.edu.mx/curso,factura.pdf,ham
+1099,oportunidad@ofertas-rapidas.xyz,Acceso VIP a ganancias diarias,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://sorteo-gratis.site/registro,premio.doc,spam
+1109,facturacion@inversion-milagro.co,Deposita y DUPLICA tu dinero en 24h,Haz clic en el enlace y evita la suspensión de tu cuenta.,,,spam
+1059,rh@instituto.edu,Confirmación de inscripción,Adjunto el orden del día para la reunión de mañana.,https://docs.google.com/document/d/abc123/edit,temario.pdf,ham
+1153,reclamo@promo-cash.win,Confirma tu paquete pendiente,Pague su factura atrasada para evitar recargos.,http://promo-cash.win/recoge,factura.zip,spam
+1061,biblioteca@empresa.com,Clase de IA – enlace a Teams,Recuerda que la fecha límite de entrega es el viernes.,https://drive.google.com/file/d/abc123/view,calificaciones.xlsx,ham
+1152,bitcoin@bonus-premio.ru,Última oportunidad: regalo asegurado,"Crédito aprobado sin requisitos, solo hoy.",http://bit.ly/verify-345,oferta.pdf,spam
+1082,desconocido@ofertas-rapidas.xyz,¡Has ganado un premio MILLONARIO!,Multiplica tu inversión de forma garantizada.,http://inversion-milagro.co/alta,premio.doc,spam
+1156,promo@regalo365.cc,¡Has ganado un premio MILLONARIO!,"No requiere experiencia, cupos limitados.",http://ofertas-rapidas.xyz/deal,,spam
+1096,facturacion@loteria-premios.top,Factura vencida – pague ahora,Acceso inmediato a ganancias automáticas.,http://regalo365.cc/activar,premio.doc,spam
+1085,promo@promo-cash.win,Factura vencida – pague ahora,Multiplica tu inversión de forma garantizada.,http://bonus-premio.ru/claim,,spam
+1088,oportunidad@regalo365.cc,Acceso VIP a ganancias diarias,Pague su factura atrasada para evitar recargos.,http://regalo365.cc/activar,oferta.pdf,spam
+1159,credito@ofertas-rapidas.xyz,Última oportunidad: regalo asegurado,Acceso inmediato a ganancias automáticas.,http://cryptofast.biz/login,oferta.pdf,spam
+1137,lottery@bonus-premio.ru,Deposita y DUPLICA tu dinero en 24h,"Tu regalo te espera, confirma tu dirección.",http://bit.ly/verify-345,factura.zip,spam
+1114,oportunidad@loteria-premios.top,Acceso VIP a ganancias diarias,"Su paquete está detenido, verifique los datos de envío.",http://inversion-milagro.co/alta,oferta.pdf,spam
+1038,prof.juarez@unam.mx,Clase de IA – enlace a Teams,Estás invitado al seminario de investigación este jueves.,,,ham
+1125,promo@cryptofast.biz,Deposita y DUPLICA tu dinero en 24h,"Crédito aprobado sin requisitos, solo hoy.",http://bit.ly/verify-345,,spam
+1076,maria@colegio.mx,Resultados de examen parcial,Adjunto el orden del día para la reunión de mañana.,https://intranet.empresa.com/login,calificaciones.xlsx,ham
+1072,admin@tecnm.mx,Cambio de aula para mañana,Se adjunta la factura correspondiente a este mes.,https://aulavirtual.universidad.edu.mx/curso,,ham
+1000,soporte@tecnm.mx,Confirmación de inscripción,Se adjunta la factura correspondiente a este mes.,https://intranet.empresa.com/login,factura.pdf,ham
+1068,admin@universidad.edu.mx,Recordatorio de entrega de proyecto,Tu inscripción ha sido confirmada exitosamente.,https://wifi.unam.mx/renovacion,,ham
+1129,desconocido@promo-cash.win,Acceso VIP a ganancias diarias,"Tu regalo te espera, confirma tu dirección.",http://bonus-premio.ru/claim,,spam
+1087,credito@ofertas-rapidas.xyz,Acceso VIP a ganancias diarias,Acceso inmediato a ganancias automáticas.,,comprobante.rar,spam
+1106,oportunidad@bonus-premio.ru,Deposita y DUPLICA tu dinero en 24h,"Su paquete está detenido, verifique los datos de envío.",http://cryptofast.biz/login,comprobante.rar,spam
+1070,maria@tecnm.mx,Horario de junta semanal,La clase de mañana será en el aula 204.,https://aulavirtual.universidad.edu.mx/curso,,ham
+1017,biblioteca@universidad.edu.mx,Resultados de examen parcial,Tu inscripción ha sido confirmada exitosamente.,https://calendar.google.com/event?eid=123,temario.pdf,ham
+1034,prof.juarez@instituto.edu,Resultados de examen parcial,Se adjunta la factura correspondiente a este mes.,https://aulavirtual.universidad.edu.mx/curso,informe.pdf,ham
+1130,promo@regalo365.cc,¡Has ganado un premio MILLONARIO!,"No requiere experiencia, cupos limitados.",http://cryptofast.biz/login,oferta.pdf,spam
+1048,contabilidad@tecnm.mx,Invitación a seminario de investigación,Tu acceso a la red WiFi ha sido renovado por un año.,https://intranet.empresa.com/login,temario.pdf,ham
+1098,facturacion@promo-cash.win,Recibe un crédito SIN revisar buró,Pague su factura atrasada para evitar recargos.,http://bonus-premio.ru/claim,oferta.pdf,spam
+1037,juan@colegio.mx,Invitación a seminario de investigación,Estás invitado al seminario de investigación este jueves.,https://docs.google.com/document/d/abc123/edit,,ham
+1141,ganador@cryptofast.biz,Trabajo desde casa y gana $5000/semana,Multiplica tu inversión de forma garantizada.,http://sorteo-gratis.site/registro,,spam
+1116,credito@cryptofast.biz,Trabajo desde casa y gana $5000/semana,"No requiere experiencia, cupos limitados.",http://sorteo-gratis.site/registro,comprobante.rar,spam
+1062,soporte@empresa.com,Confirmación de inscripción,Recuerda que la fecha límite de entrega es el viernes.,https://teams.microsoft.com/l/meetup-join/abc123,orden_dia.docx,ham
+1120,facturacion@cryptofast.biz,Confirma tu paquete pendiente,Acceso inmediato a ganancias automáticas.,http://ofertas-rapidas.xyz/deal,,spam
+1123,reclamo@regalo365.cc,Acceso VIP a ganancias diarias,"Crédito aprobado sin requisitos, solo hoy.",http://sorteo-gratis.site/registro,,spam

@@ -1,0 +1,11 @@
+id_plato,nombre,tipo_dieta,categoria,picante,dulce,marisco,precio_aprox,tiempo_preparacion_min,descripcion
+P01,Pasta al pomodoro,vegetariana,fuerte,0,0,0,120,20,Pasta de trigo con salsa de tomate y parmesano.
+P02,Camarones al ajillo,omnivora,fuerte,1,0,1,180,25,"Camarones salteados con ajo, aceite de oliva y chile."
+P03,Hummus con verduras,vegana,entrada,0,0,0,90,10,Garbanzo con tahini y verduras frescas.
+P04,Mousse de chocolate,vegetariana,postre,0,1,0,85,15,Postre cremoso de chocolate con leche.
+P05,Tacos de soya estilo pastor,vegana,fuerte,1,0,0,110,20,Soya marinada estilo pastor en tortilla de maíz.
+P06,Ensalada mediterránea,vegana,entrada,0,0,0,95,8,"Lechuga, pepino, aceituna y aceite de oliva."
+P07,Sopa de tomate,vegetariana,entrada,0,0,0,70,12,Sopa ligera de tomate con ajo y aceite de oliva.
+P08,Filete de pescado a la plancha,omnivora,fuerte,0,0,1,210,22,Pescado blanco a la plancha con vegetales.
+P09,Brownie vegano,vegana,postre,0,1,0,90,18,Brownie con leche vegetal.
+P10,Curry de garbanzo,vegana,fuerte,1,0,0,130,25,Curry suave de garbanzo con arroz jazmín.

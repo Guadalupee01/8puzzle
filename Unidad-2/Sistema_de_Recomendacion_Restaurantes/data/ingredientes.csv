@@ -1,0 +1,21 @@
+id_ingrediente,nombre,alergenos,es_marisco,es_origen_animal,disponible
+I01,Tomate,,0,0,1
+I02,Queso parmesano,lacteos,0,1,1
+I03,Pasta de trigo,gluten,0,0,1
+I04,Camarón,,1,1,1
+I05,Leche,lacteos,0,1,1
+I06,Chocolate amargo,,0,0,1
+I07,Chile seco,,0,0,1
+I08,Garbanzo,,0,0,1
+I09,Tahini (ajonjolí),,0,0,1
+I10,Proteína de soya,soya,0,0,1
+I11,Tortilla de maíz,,0,0,1
+I12,Piña,,0,0,1
+I13,Aceite de oliva,,0,0,1
+I14,Ajo,,0,0,1
+I15,Lechuga,,0,0,1
+I16,Pepino,,0,0,1
+I17,Aceituna negra,,0,0,1
+I18,Pescado blanco,pescado,0,1,1
+I19,Arroz jazmín,,0,0,1
+I20,Leche vegetal,,0,0,1

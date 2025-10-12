@@ -1,0 +1,31 @@
+id,remitente,asunto,contenido,enlaces,adjuntos,label
+1,prof.juarez@tecnm.mx,Clase de IA – enlace a Teams,"Buenas tardes, comparto el enlace para la clase de hoy a las 18:00.",https://teams.microsoft.com/l/meetup-join/abc123,,ham
+2,notificaciones@banco-seguro.com,Alerta de inicio de sesión,"Detectamos un inicio de sesión desde un nuevo dispositivo. Si fuiste tú, ignora este mensaje.",https://banco-seguro.com/seguridad,,ham
+3,soporte@empresa.com,Factura electrónica de septiembre,Adjuntamos su factura correspondiente al mes de septiembre.,,factura_sep2025.pdf,ham
+4,biblioteca@universidad.mx,Recordatorio de préstamo de libros,"Estimado estudiante, recuerda devolver los libros antes del viernes.",https://biblioteca.universidad.mx/prestamos,,ham
+5,noreply@compras.mx,Confirmación de pedido #58421,Tu compra fue procesada con éxito. Llegará entre el 2 y 4 de octubre.,https://compras.mx/orden/58421,,ham
+6,rrhh@empresa.com,Entrevista programada,"Hola, confirmamos tu entrevista para el miércoles a las 10:00 am.",,instrucciones.pdf,ham
+7,avisos@gob.mx,Cita confirmada – Pasaporte,Tu cita para trámite de pasaporte ha sido confirmada.,https://www.gob.mx/pasaporte/citas,,ham
+8,investigacion@tecnm.mx,Convocatoria Innovatec 2025,Se abre la convocatoria para proyectos de innovación tecnológica.,https://convocatorias.tecnm.mx/innovatec,,ham
+9,no-reply@github.com,Nuevo inicio de sesión en tu cuenta,Se detectó un inicio de sesión desde Windows. Revisa tu configuración si no fuiste tú.,https://github.com/settings/security,,ham
+10,soporte@unam.mx,Acceso a WiFi universitario,Tu acceso a la red WiFi ha sido renovado por un año.,https://wifi.unam.mx/renovacion,,ham
+11,desconocido@promo-cash.win,¡Has ganado un premio MILLONARIO!,Reclama ahora tu premio en efectivo. Oferta por tiempo limitado!!!,http://promo-cash.win/recoge,,spam
+12,soporte@@banco.com,Verificación urgente de su cuenta,Su cuenta será suspendida si no confirma sus datos aquí.,http://soporte-banco.com-verifica.co,,spam
+13,profesor.tecnm.mx,Clase WhatsApp enlace del grupo,ÚNETE YA al grupo oficial en whatsappp para pasar la materia fácil.,http://whatsappp.com/xyz,,spam
+14,noreply@faceb00k.com,Restablece tu contraseña ahora,"Se solicitó un restablecimiento. Si no fuiste tú, entra al siguiente enlace.",http://faceb00k.com-reset.secure-login.cn,,spam
+15,ganapremios@cupones-gratis.cc,Tarjeta de regalo GRATIS $1000,Solo hoy! Regístrate y gana 1000$ en cupones.,http://cupones-gratis.cc/win,,spam
+16,seguridad@banco-seguro.com.mx,Alerta: actividad inusual,Su cuenta presenta movimientos sospechosos. Descargue la app adjunta y verifique.,,verificador_seguridad.exe,spam
+17,ventas@empresa,Oferta exclusiva 100% GRATIS,Compra uno y llévate otro GRATIS!!! CLICK AQUÍ,http://malwareshare.cn/offer,,spam
+18,info@tecnm..mx,Actualización de credenciales,Para mantener el acceso es OBLIGATORIO actualizar tu contraseña en el link.,http://tecnm.mx.validar-credenciales.ru,,spam
+19,soporte@banco-seguro.co,Tu cuenta será cerrada,Último aviso: entra a este link y paga una comisión para evitar el cierre.,http://banco-seguro.co.pago-seguro.ru,,spam
+20,promos@tienda-oficial.mx,Descuentos de locura!!!,Hasta 90% de descuento en TODO. Visita ahora nuestra web.,http://tienda-oficial.mx.descuentos.win,,spam
+21,ayuda@startup.io,Invitación a colaborar,"Hola, vimos tu proyecto y queremos charlar. Sitio oficial abajo.",https://startup.io; http://promo-cash.win/bono,,spam
+22,desconocido@tecnm.mx,Recordatorio: entrega del proyecto,"Hola, soy asistente académico nuevo. Aquí el enlace a Teams.",https://teams.microsoft.com/l/meetup-join/def456,,ham
+23,soporte@softsegura.com,Actualiza tu antivirus GRATIS,Puedes descargar la actualización desde nuestro sitio oficial o desde un mirror alterno.,https://softsegura.com/update; http://malicioso.ru/build,,spam
+24,coordinacion@facultad.universidad.mx,Cambio de aula mañana,Se cambia el salón a B-204 por mantenimiento.,,,ham
+25,secretaria@tecnm.mx,Clase WhatsApp: enlace del grupo oficial,Se comparte enlace del grupo OFICIAL de la materia. Cualquier duda responda este correo.,https://chat.whatsapp.com/XXXXX,,ham
+26,noreply@banco-seguro.com,Verifica tus datos fiscales,"Para evitar el bloqueo, sube tus documentos en el portal seguro.",https://banco-seguro.com/validacion,,ham
+27,no-reply@university.edu,Tu cuenta fue desactivada,"Para reactivar tu cuenta, visita el portal. (Mensaje sospechoso por correo genérico)",http://university.edu.reactive-now.cn,,spam
+28,practicas@empresa.com,Oferta de prácticas profesionales,Nos interesa tu perfil. Revisa los requisitos en el enlace.,https://empresa.com/practicas,,ham
+29,ayuda@banco-seguro.com,Reembolso disponible,Tienes un reembolso disponible. Consulta el detalle en el portal oficial.,https://banco-seguro.com/reembolsos,,ham
+30,info@compras-oficial.com,Recibe tu paquete hoy,"Para recibir tu paquete hoy, paga 20 MXN de servicio premium.",http://compras-oficial.com.entrega-rapida.ru,,spam
