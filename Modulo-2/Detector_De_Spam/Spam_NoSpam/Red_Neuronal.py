@@ -2,11 +2,27 @@ import numpy as np
 from keras_preprocessing.sequence import pad_sequences
 from tensorflow import keras
 
+
+# Clase modelo spam, tam vocabulario=tamaño de cuantas palabras manejara en embedding
+# max longitud tamaño fijo en tokens de cada correo tras pad_secuences
+# dim embegging dimension del vector que representara cada palabra
+# unidades: neuronas de la capa densa intermedia
+# dropout: fraccion de neuronas que se apagan aleatoriamente durante el entrenamiento
+# lr: learning rate de adam
 class ModeloSpam:
     def __init__(self, tam_vocabulario=5000, max_longitud=200,
                  dim_embedding=64, unidades=64, dropout=0.5, lr=0.001):
         self.tam_vocabulario = tam_vocabulario
         self.max_longitud = max_longitud
+
+
+        #Input: espera un vector de índices de longitud max_longitud (cada índice es una palabra tokenizada). dtype="int32" porque son enteros.
+        # Embedding: convierte cada índice en un vector denso de tamaño dim_embedding.
+        # mask_zero=True: indica a Keras que ignore el 0 (que proviene del padding). Así, el modelo no “aprende” del relleno.
+        # GlobalAveragePooling1D: promedia (a lo largo del tiempo/posiciones) los vectores del embedding para obtener un solo vector por correo.
+        # Dense(unidades, relu): capa intermedia que aprende combinaciones no lineales de ese vector promedio.
+        # Dropout: apaga aleatoriamente dropout% de neuronas en entrenamiento mejora generalización.
+        # Dense(1, sigmoid): capa de salida binaria; produce p_spam en [0,1].
 
         self.modelo = keras.Sequential([
             keras.layers.Input(shape=(self.max_longitud,), dtype="int32"),
@@ -25,6 +41,7 @@ class ModeloSpam:
             metrics=["accuracy", keras.metrics.AUC(name="auc")]
         )
 
+    
     def entrenar(self, x_entrenamiento, y_entrenamiento,
                  x_validacion, y_validacion,
                  epocas=30, tam_lote=8, usar_callbacks=True):
