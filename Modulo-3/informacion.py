@@ -47,7 +47,7 @@ def mejor_diagnostico(diagnosticos):
     mejor = max(diagnosticos, key=diagnosticos.get)
     return mejor, diagnosticos[mejor]
 
-# --- explicación del porqué ---
+# --- explicación del porque ---
 def explicar_todos(paciente):
     """
     Devuelve:

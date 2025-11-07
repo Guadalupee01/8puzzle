@@ -101,13 +101,13 @@ def mostrar_resultados(paciente, diagnosticos):
     mejor = max(diagnosticos, key=diagnosticos.get)
     print(f"\nDiagnóstico más probable: {mejor} ({diagnosticos[mejor]}%)")
 
-    # --- explicación del porqué ---
+    # --- explicación del porque ---
     explicaciones = explicar_todos(paciente)
     exp = explicaciones.get(mejor, {"coincidentes": [], "faltantes": []})
     coinc = exp["coincidentes"]
     falt = exp["faltantes"]
 
-    print("\n--- Explicación del porqué ---")
+    print("\n--- Explicación del porque ---")
     print(f"Reglas activadas, síntomas presentes relevantes para {mejor} fueron las siguientes: "
           f"{', '.join(coinc) if coinc else '—'}")
     print(f"y los Síntomas faltantes esperados para {mejor} fueron los siguientes: "
