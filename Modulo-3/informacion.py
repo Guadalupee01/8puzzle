@@ -1,6 +1,6 @@
 # logica, datos y funcion de diagnostico del sistema experto
 
-# enfermedades que puede presentar el pasiente, **manuel si crees que hacen falta mas agregale pero creo que con las que esta son suficientes 
+# enfermedades que puede presentar el pasiente 
 enfermedades = {
     "Asma": {
         "sintomas": [
@@ -50,7 +50,7 @@ def mejor_diagnostico(diagnosticos):
 # --- explicación del porqué ---
 def explicar_todos(paciente):
     """
-    Devuelve un diccionario:
+    Devuelve:
       { enfermedad: {"coincidentes": [...], "faltantes": [...]} }
     basado en los síntomas definidos por cada enfermedad.
     """
