@@ -41,8 +41,23 @@ def diagnosticar(paciente):
     return resultados
 
 def mejor_diagnostico(diagnosticos):
-    """Devuelve (nombre_enfermedad, porcentaje). No cambia la lógica."""
+    #Devuelve (nombre_enfermedad, porcentaje).
     if not diagnosticos:
         return None, 0
     mejor = max(diagnosticos, key=diagnosticos.get)
     return mejor, diagnosticos[mejor]
+
+# --- explicación del porqué ---
+def explicar_todos(paciente):
+    """
+    Devuelve un diccionario:
+      { enfermedad: {"coincidentes": [...], "faltantes": [...]} }
+    basado en los síntomas definidos por cada enfermedad.
+    """
+    explic = {}
+    for enfermedad, datos in enfermedades.items():
+        lista = datos["sintomas"]
+        coinc = [s for s in lista if paciente.get(s, False)]
+        falt  = [s for s in lista if not paciente.get(s, False)]
+        explic[enfermedad] = {"coincidentes": coinc, "faltantes": falt}
+    return explic

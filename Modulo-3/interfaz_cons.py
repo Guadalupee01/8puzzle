@@ -1,4 +1,4 @@
-from informacion import diagnosticar
+from informacion import diagnosticar, explicar_todos
 
 #validacion de preguntas, para evitar que el usuario se equivoque al escibirlas por si acaso cree este metodo para hacerlo de una manera mas acxesible 
 def pedir_booleano(pregunta):
@@ -100,6 +100,18 @@ def mostrar_resultados(paciente, diagnosticos):
         print(f"- {enfermedad}: certeza {certeza}%")
     mejor = max(diagnosticos, key=diagnosticos.get)
     print(f"\nDiagnóstico más probable: {mejor} ({diagnosticos[mejor]}%)")
+
+    # --- explicación del porqué ---
+    explicaciones = explicar_todos(paciente)
+    exp = explicaciones.get(mejor, {"coincidentes": [], "faltantes": []})
+    coinc = exp["coincidentes"]
+    falt = exp["faltantes"]
+
+    print("\n--- Explicación del porqué ---")
+    print(f"Reglas activadas, síntomas presentes relevantes para {mejor} fueron las siguientes: "
+          f"{', '.join(coinc) if coinc else '—'}")
+    print(f"y los Síntomas faltantes esperados para {mejor} fueron los siguientes: "
+          f"{', '.join(falt) if falt else '—'}")
 
 def main():
     paciente = pedir_datos_paciente()
