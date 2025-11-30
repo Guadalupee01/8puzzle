@@ -34,8 +34,8 @@ se encuentra el archivo del modelo preentrenado y Haarcascade
 2. haarcascade_frontalface_default.xml
 
 # creacion del entrorno virtual
-python -m venv .venv ° creacion
-.\.venv\Scripts\activate °activacion
+1. python -m venv .venv     (creacion)
+2. .\.venv\Scripts\activate (activacion)
 
 # Librerias a instalar
 1. pip install onnxruntime
