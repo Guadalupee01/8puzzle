@@ -2,9 +2,9 @@
 
 ## Introduccion
 
-El objetivo de este proyecto es que sistema o aplicacion detecte las siguientes emociones: Felicidad, Tristeza, Enojo y Neutro.
+El objetivo de este proyecto es que el sistema o aplicacion detecte las siguientes emociones: Felicidad, Tristeza, Enojo y Neutro.
 
-Para ello se Utilizo un Modelo Preentrenados de deteccion de emociones el cual fue:
+Para ello se Utilizo un Modelo Preentrenado de deteccion de emociones el cual fue:
 Emotion-ferplus-8.onnx
 
 y tambien se utilizo.
